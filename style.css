@@ -1,0 +1,36 @@
+.head {
+	 text-align: center;
+	 line-height: 5px;
+	 font-size: small;
+	}
+
+.head #name {
+	text-transform: uppercase;
+}
+
+table {
+	width: 100%
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+	width: 50%;
+}
+
+#billto{
+	line-height: 5px;
+	font-size: small;
+}
+
+.txtleft{
+	text-align: right;
+	font-weight: bold;
+}
+
+.tbl-head{
+	font-weight: bold;
+}
